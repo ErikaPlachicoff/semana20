@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "- Ver una lista de productos almacenados en una base de datos.\r - Agregar nuevos productos usando el formulario.\r - Usar Bootstrap.",
   "dependencies": {
     "body-parser": "^1.20.3",
     "express": "^4.21.1",
